@@ -1,0 +1,61 @@
+nav {
+  top: 0;
+  position: fixed;
+}
+
+.row {
+  width: 100vw;
+}
+
+.nav-link {
+  font-family: "Source Code Pro", monospace;
+  color: white;
+  font-size: 25px;
+  padding-left: 3%;
+  padding-top: 1%;
+}
+
+.subtitle {
+  font-family: "Source Code Pro", monospace;
+  color: white;
+  font-size: 18px;
+  padding-left: 2%;
+}
+
+#navbarName {
+  text-align: left;
+}
+
+#navbarButtons {
+  text-align: left;
+}
+
+.navigationTitle {
+  font-family: "Source Code Pro", monospace;
+  color: white;
+  font-size: 25px;
+  text-align: right;
+  padding-right: 2%;
+  padding-bottom: 1%;
+  text-decoration: underline;
+}
+
+.vertical-menu {
+  width: 200px;
+  float: right;
+  text-align: right;
+}
+
+.vertical-menu row {
+  display: block;
+}
+
+#navigationButton {
+  width: 100%;
+  margin-bottom: 1%;
+  text-align: right;
+  font-family: "Source Code Pro", monospace;
+  color: white;
+  background-color: black;
+  border-color: black;
+}

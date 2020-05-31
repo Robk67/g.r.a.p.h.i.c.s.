@@ -1,0 +1,9 @@
+.graphicsTitle {
+  width: 100vw;
+  color: white;
+  padding-top: 1%;
+  position: fixed;
+  font-family: "Source Code Pro", monospace;
+  color: white;
+  font-size: 18px;
+}
