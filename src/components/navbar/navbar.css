@@ -18,7 +18,7 @@ nav {
 .subtitle {
   font-family: "Source Code Pro", monospace;
   color: white;
-  font-size: 18px;
+  font-size: 16px;
   padding-left: 2%;
 }
 
@@ -41,7 +41,7 @@ nav {
 }
 
 .vertical-menu {
-  width: 200px;
+  width: 250px;
   float: right;
   text-align: right;
 }

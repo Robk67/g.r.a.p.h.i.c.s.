@@ -32,6 +32,14 @@ const Navbar = (props) => {
               >
                 Teal Cube
               </button>
+              <button
+                type="button"
+                className="btn btn-primary"
+                onClick={() => buttonPressed(3)}
+                id="navigationButton"
+              >
+                Particle Sphere
+              </button>
             </div>
           </div>
         </div>
